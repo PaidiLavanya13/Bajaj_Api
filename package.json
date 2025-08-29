@@ -1,6 +1,7 @@
 {
-  "name": "bajaj_api_project",
+  "name": "bajaj-api",
   "version": "1.0.0",
+
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -10,7 +11,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
+    "dependencies": {
+    "express": "^4.18.2"
   }
+  
 }
